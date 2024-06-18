@@ -52,3 +52,5 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+Submission link: https://docs.google.com/document/d/1RSwqifADEwUSeHg7hmJqdD2ecJy8qG6iZRbFx4YUIL4/edit?usp=drivesdk
